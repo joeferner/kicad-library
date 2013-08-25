@@ -1,5 +1,8 @@
 EESchema-LIBRARY Version 2.3
 #encoding utf-8
+# MRF24WB0MX
+# URL: http://kicadcloud.com/schematicSymbol/10
+#
 DEF MRF24WB0MX U 0 40 Y Y 1 F N
 F0 "U" -300 1050 60 H V C CNN
 F1 "MRF24WB0MX" -50 -1150 60 H V C CNN

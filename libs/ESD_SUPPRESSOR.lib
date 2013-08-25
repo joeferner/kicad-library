@@ -1,5 +1,8 @@
 EESchema-LIBRARY Version 2.3
 #encoding utf-8
+# ESD_SUPPRESSOR
+# URL: http://kicadcloud.com/schematicSymbol/4333
+#
 DEF ESD_SUPPRESSOR D 0 40 Y Y 1 F N
 F0 "D" -100 0 60 V V C CNN
 F1 "ESD_SUPPRESSOR" 150 0 60 V V C CNN

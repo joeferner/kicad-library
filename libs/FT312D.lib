@@ -1,5 +1,7 @@
 EESchema-LIBRARY Version 2.3
 #encoding utf-8
+# FT312D
+#
 DEF FT312D U 0 40 Y Y 1 F N
 F0 "U" -450 750 60 H V C CNN
 F1 "FT312D" -350 -1550 60 H V C CNN

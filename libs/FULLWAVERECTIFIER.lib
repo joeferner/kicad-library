@@ -1,5 +1,8 @@
 EESchema-LIBRARY Version 2.3
 #encoding utf-8
+# FULLWAVERECTIFIER
+# URL: http://kicadcloud.com/schematicSymbol/117
+#
 DEF FULLWAVERECTIFIER U 0 40 Y Y 1 F N
 F0 "U" -150 250 60 H V C CNN
 F1 "FULLWAVERECTIFIER" 250 -200 60 H V C CNN

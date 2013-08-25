@@ -1,5 +1,7 @@
 EESchema-LIBRARY Version 2.3
 #encoding utf-8
+# BQ24450
+#
 DEF BQ24450 U 0 40 Y Y 1 F N
 F0 "U" 0 -800 60 H V L CNN
 F1 "BQ24450" 1400 -800 60 H V L CNN

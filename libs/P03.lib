@@ -1,5 +1,8 @@
 EESchema-LIBRARY Version 2.3
 #encoding utf-8
+# P03
+# URL: http://kicadcloud.com/schematicSymbol/11
+#
 DEF P03 P 0 40 Y Y 1 F N
 F0 "P" 50 55 60 H V C CNN
 F1 "P03" 75 -455 60 H V C CNN

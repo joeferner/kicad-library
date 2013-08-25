@@ -1,5 +1,7 @@
 EESchema-LIBRARY Version 2.3
 #encoding utf-8
+# MC34063
+#
 DEF MC34063 U 0 40 Y Y 1 F N
 F0 "U" -300 350 60 H V L CNN
 F1 "MC34063" -300 -250 60 H V L CNN

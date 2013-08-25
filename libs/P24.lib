@@ -1,5 +1,7 @@
 EESchema-LIBRARY Version 2.3
 #encoding utf-8
+# P24
+#
 DEF P24 P 0 40 Y Y 1 F N
 F0 "P" 0 1350 60 H V L CNN
 F1 "P24" 0 -1200 60 H V L CNN

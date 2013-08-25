@@ -1,5 +1,8 @@
 EESchema-LIBRARY Version 2.3
 #encoding utf-8
+# USB_2
+# URL: http://kicadcloud.com/schematicSymbol/38
+#
 DEF ~USB_2 J 0 40 Y Y 1 F N
 F0 "J" -75 250 60 H V C CNN
 F1 "USB_2" 50 -350 60 H I C CNN

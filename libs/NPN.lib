@@ -1,5 +1,7 @@
 EESchema-LIBRARY Version 2.3
 #encoding utf-8
+# NPN
+#
 DEF NPN Q 0 40 Y Y 1 F N
 F0 "Q" -100 200 60 H V C CNN
 F1 "NPN" -100 -200 60 H V C CNN

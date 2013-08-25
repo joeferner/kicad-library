@@ -1,5 +1,8 @@
 EESchema-LIBRARY Version 2.3
 #encoding utf-8
+# LM317
+# URL: http://kicadcloud.com/schematicSymbol/1573
+#
 DEF LM317 U 0 40 Y Y 1 F N
 F0 "U" 0 300 60 H V C CNN
 F1 "LM317" 50 -250 60 H V L CNN

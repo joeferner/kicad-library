@@ -1,5 +1,7 @@
 EESchema-LIBRARY Version 2.3
 #encoding utf-8
+# CONN_14X1
+#
 DEF CONN_14X1 J 0 40 Y Y 1 F N
 F0 "J" 0 750 60 H V L CNN
 F1 "CONN_14X1" 0 -850 60 H V L CNN

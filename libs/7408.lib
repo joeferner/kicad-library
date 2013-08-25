@@ -1,5 +1,8 @@
 EESchema-LIBRARY Version 2.3
 #encoding utf-8
+#
+# 7408
+#
 DEF 7408 U 0 40 Y Y 4 F N
 F0 "U" -50 200 60 H V C CNN
 F1 "7408" -50 -200 60 H V C CNN

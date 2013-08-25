@@ -1,5 +1,8 @@
 EESchema-LIBRARY Version 2.3
 #encoding utf-8
+# LM358
+# URL: http://kicadcloud.com/schematicSymbol/41
+#
 DEF LM358 U 0 20 Y Y 2 F N
 F0 "U" -50 200 60 H V L CNN
 F1 "LM358" -50 -250 60 H V L CNN

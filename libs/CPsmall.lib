@@ -1,5 +1,8 @@
 EESchema-LIBRARY Version 2.3
 #encoding utf-8
+# CPsmall
+# URL: http://kicadcloud.com/schematicSymbol/2
+#
 DEF CPsmall C 0 10 N Y 1 F N
 F0 "C" 25 50 30 H V L CNN
 F1 "CPsmall" 25 -50 30 H V L CNN
