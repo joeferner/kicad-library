@@ -4,6 +4,9 @@ Units mm
 $INDEX
 LED-1206
 $EndINDEX
+#
+# URL: http://kicadcloud.com/pcbModule/21
+#
 $MODULE LED-1206
 Po 0 0 0 15 50CE7801 00000000 ~~
 Li LED-1206

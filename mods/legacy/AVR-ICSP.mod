@@ -4,6 +4,9 @@ Units deci-mils
 $INDEX
 AVR-ICSP
 $EndINDEX
+#
+# URL: http://kicadcloud.com/pcbModule/34
+#
 $MODULE AVR-ICSP
 Po 0 0 0 15 4F778CC0 00000000 ~~
 Li AVR-ICSP

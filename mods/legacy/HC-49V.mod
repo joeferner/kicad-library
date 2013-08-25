@@ -4,6 +4,9 @@ Units deci-mils
 $INDEX
 HC-49V
 $EndINDEX
+#
+# URL: http://kicadcloud.com/pcbModule/52
+#
 $MODULE HC-49V
 Po 0 0 0 15 4C5EC450 00000000 ~~
 Li HC-49V

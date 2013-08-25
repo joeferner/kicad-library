@@ -4,6 +4,9 @@ Units deci-mils
 $INDEX
 DO-214AC(SMA)
 $EndINDEX
+#
+# URL: http://kicadcloud.com/pcbModule/44
+#
 $MODULE DO-214AC(SMA)
 Po 0 0 0 15 50924EEA 00000000 ~~
 Li DO-214AC(SMA)

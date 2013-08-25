@@ -4,6 +4,9 @@ Units deci-mils
 $INDEX
 SM0603_Resistor
 $EndINDEX
+#
+# URL: http://kicadcloud.com/pcbModule/3512
+#
 $MODULE SM0603_Resistor
 Po 0 0 0 15 5051B21B 00000000 ~~
 Li SM0603_Resistor

@@ -4,6 +4,9 @@ Units deci-mils
 $INDEX
 VASCH5x2
 $EndINDEX
+#
+# URL: http://kicadcloud.com/pcbModule/3253
+#
 $MODULE VASCH5x2
 Po 0 0 0 15 4C5EDCE4 00000000 ~~
 Li VASCH5x2

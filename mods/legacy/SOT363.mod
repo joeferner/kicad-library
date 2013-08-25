@@ -4,6 +4,9 @@ Units deci-mils
 $INDEX
 SOT363
 $EndINDEX
+#
+# URL: http://kicadcloud.com/pcbModule/3682
+#
 $MODULE SOT363
 Po 0 0 0 15 4ECF8DD7 00000000 ~~
 Li SOT363

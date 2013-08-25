@@ -4,6 +4,9 @@ Units deci-mils
 $INDEX
 SM0805
 $EndINDEX
+#
+# URL: http://kicadcloud.com/pcbModule/43
+#
 $MODULE SM0805
 Po 0 0 0 15 5091495C 00000000 ~~
 Li SM0805

@@ -4,6 +4,9 @@ Units mm
 $INDEX
 USBMICRO
 $EndINDEX
+#
+# URL: http://kicadcloud.com/pcbModule/30
+#
 $MODULE USBMICRO
 Po 0 0 0 15 510B3E1E 00000000 ~~
 Li USBMICRO

@@ -4,6 +4,9 @@ Units mm
 $INDEX
 BATTERY-COIN
 $EndINDEX
+#
+# URL: http://kicadcloud.com/pcbModule/19
+#
 $MODULE BATTERY-COIN
 Po 0 0 0 15 50E10F22 00000000 ~~
 Li BATTERY-COIN

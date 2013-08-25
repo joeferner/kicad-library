@@ -4,6 +4,9 @@ Units mm
 $INDEX
 VASCH10x2
 $EndINDEX
+#
+# URL: http://kicadcloud.com/pcbModule/53
+#
 $MODULE VASCH10x2
 Po 0 0 0 15 50EEC511 00000000 ~~
 Li VASCH10x2

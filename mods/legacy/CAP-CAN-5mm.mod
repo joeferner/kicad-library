@@ -4,6 +4,9 @@ Units mm
 $INDEX
 CAP-CAN-5mm
 $EndINDEX
+#
+# URL: http://kicadcloud.com/pcbModule/20
+#
 $MODULE CAP-CAN-5mm
 Po 0 0 0 15 50CE713E 00000000 ~~
 Li CAP-CAN-5mm

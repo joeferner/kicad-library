@@ -4,6 +4,9 @@ Units deci-mils
 $INDEX
 PIN_ARRAY_3X1
 $EndINDEX
+#
+# URL: http://kicadcloud.com/pcbModule/47
+#
 $MODULE PIN_ARRAY_3X1
 Po 0 0 0 15 4C1130E0 00000000 ~~
 Li PIN_ARRAY_3X1

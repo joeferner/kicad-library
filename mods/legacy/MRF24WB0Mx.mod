@@ -4,6 +4,9 @@ Units mm
 $INDEX
 MRF24WB0Mx
 $EndINDEX
+#
+# URL: http://kicadcloud.com/pcbModule/22
+#
 $MODULE MRF24WB0Mx
 Po 0 0 0 15 50D12182 00000000 ~~
 Li MRF24WB0Mx

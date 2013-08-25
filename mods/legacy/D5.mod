@@ -4,6 +4,9 @@ Units mm
 $INDEX
 D5
 $EndINDEX
+#
+# URL: http://kicadcloud.com/pcbModule/3355
+#
 $MODULE D5
 Po 0 0 0 15 00200000 00000000 ~~
 Li D5

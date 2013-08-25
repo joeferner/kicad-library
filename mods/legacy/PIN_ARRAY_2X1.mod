@@ -4,6 +4,9 @@ Units deci-mils
 $INDEX
 PIN_ARRAY_2X1
 $EndINDEX
+#
+# URL: http://kicadcloud.com/pcbModule/46
+#
 $MODULE PIN_ARRAY_2X1
 Po 0 0 0 15 4565C520 00000000 ~~
 Li PIN_ARRAY_2X1

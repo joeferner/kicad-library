@@ -4,6 +4,9 @@ Units deci-mils
 $INDEX
 1pin
 $EndINDEX
+#
+# URL: http://kicadcloud.com/pcbModule/48
+#
 $MODULE 1pin
 Po 0 0 0 15 00200000 00000000 ~~
 Li 1pin

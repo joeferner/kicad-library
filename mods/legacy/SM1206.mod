@@ -4,6 +4,9 @@ Units deci-mils
 $INDEX
 SM1206
 $EndINDEX
+#
+# URL: http://kicadcloud.com/pcbModule/45
+#
 $MODULE SM1206
 Po 0 0 0 15 42806E24 00000000 ~~
 Li SM1206

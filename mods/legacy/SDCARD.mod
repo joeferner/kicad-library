@@ -4,6 +4,9 @@ Units mm
 $INDEX
 SDCARD
 $EndINDEX
+#
+# URL: http://kicadcloud.com/pcbModule/26
+#
 $MODULE SDCARD
 Po 0 0 0 15 50D129EE 00000000 ~~
 Li SDCARD

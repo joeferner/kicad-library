@@ -4,6 +4,9 @@ Units mm
 $INDEX
 PIN_ARRAY_20X1
 $EndINDEX
+#
+# URL: http://kicadcloud.com/pcbModule/23
+#
 $MODULE PIN_ARRAY_20X1
 Po 0 0 0 15 50D11444 00000000 ~~
 Li PIN_ARRAY_20X1

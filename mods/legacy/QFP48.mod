@@ -4,6 +4,9 @@ Units mm
 $INDEX
 QFP48
 $EndINDEX
+#
+# URL: http://kicadcloud.com/pcbModule/25
+#
 $MODULE QFP48
 Po 0 0 0 15 50D12A5A 00000000 ~~
 Li QFP48

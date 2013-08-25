@@ -4,6 +4,9 @@ Units deci-mils
 $INDEX
 KBP
 $EndINDEX
+#
+# URL: http://kicadcloud.com/pcbModule/119
+#
 $MODULE KBP
 Po 0 0 0 15 4FA5EC52 00000000 ~~
 Li KBP

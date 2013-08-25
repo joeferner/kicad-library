@@ -4,6 +4,9 @@ Units deci-mils
 $INDEX
 SOT223
 $EndINDEX
+#
+# URL: http://kicadcloud.com/pcbModule/50
+#
 $MODULE SOT223
 Po 0 0 0 15 00200000 00000000 ~~
 Li SOT223

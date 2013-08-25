@@ -4,6 +4,9 @@ Units mm
 $INDEX
 R5
 $EndINDEX
+#
+# URL: http://kicadcloud.com/pcbModule/3387
+#
 $MODULE R5
 Po 0 0 0 15 00200000 00000000 ~~
 Li R5

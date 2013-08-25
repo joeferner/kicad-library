@@ -4,6 +4,9 @@ Units mm
 $INDEX
 SWITCH_TACTILE
 $EndINDEX
+#
+# URL: http://kicadcloud.com/pcbModule/29
+#
 $MODULE SWITCH_TACTILE
 Po 0 0 0 15 50D116A9 00000000 ~~
 Li SWITCH_TACTILE

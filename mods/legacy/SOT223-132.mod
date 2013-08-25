@@ -4,6 +4,9 @@ Units mm
 $INDEX
 SOT223-132
 $EndINDEX
+#
+# URL: http://kicadcloud.com/pcbModule/27
+#
 $MODULE SOT223-132
 Po 0 0 0 15 50D26E4A 00000000 ~~
 Li SOT223-132

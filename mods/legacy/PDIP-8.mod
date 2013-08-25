@@ -4,6 +4,9 @@ Units deci-mils
 $INDEX
 PDIP-8
 $EndINDEX
+#
+# URL: http://kicadcloud.com/pcbModule/3628
+#
 $MODULE PDIP-8
 Po 0 0 0 15 4C71399A 00000000 ~~
 Li PDIP-8

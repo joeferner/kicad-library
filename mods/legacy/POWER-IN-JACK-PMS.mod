@@ -4,6 +4,9 @@ Units mm
 $INDEX
 POWER-IN-JACK-PMS
 $EndINDEX
+#
+# URL: http://kicadcloud.com/pcbModule/24
+#
 $MODULE POWER-IN-JACK-PMS
 Po 0 0 0 15 50EEC428 00000000 ~~
 Li POWER-IN-JACK-PMS

@@ -4,6 +4,9 @@ Units deci-mils
 $INDEX
 tsot-6
 $EndINDEX
+#
+# URL: http://kicadcloud.com/pcbModule/3712
+#
 $MODULE tsot-6
 Po 0 0 0 15 50BDEA11 00000000 ~~
 Li tsot-6

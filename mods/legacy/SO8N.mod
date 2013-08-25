@@ -4,6 +4,9 @@ Units deci-mils
 $INDEX
 SO8N
 $EndINDEX
+#
+# URL: http://kicadcloud.com/pcbModule/49
+#
 $MODULE SO8N
 Po 0 0 0 15 45127296 00000000 ~~
 Li SO8N

@@ -4,6 +4,9 @@ Units deci-mils
 $INDEX
 BNC_Socket_TYCO-AMP_LargePads_RevA_Date21Jun2010
 $EndINDEX
+#
+# URL: http://kicadcloud.com/pcbModule/3768
+#
 $MODULE BNC_Socket_TYCO-AMP_LargePads_RevA_Date21Jun2010
 Po 0 0 0 15 4C1FD4F4 00000000 ~~
 Li BNC_Socket_TYCO-AMP_LargePads_RevA_Date21Jun2010
