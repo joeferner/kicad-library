@@ -1,0 +1,44 @@
+PCBNEW-LibModule-V1
+# encoding utf-8
+Units mm
+$INDEX
+DIOM5226X220N
+$EndINDEX
+# L: 5.21mm +/- 0.38mm
+# T1: 1.14mm +/- 0.38mm
+# W1: 1.45mm +/- 0.18mm
+# T2: 1.14mm +/- 0.38mm
+# W2: 1.45mm +/- 0.18mm
+# B: 2.605mm +/- 0.315mm
+# H: 2.2mm
+$MODULE DIOM5226X220N
+Po 0 0 0 15 521C12CD 00000000 ~~
+Li DIOM5226X220N
+Sc 0
+AR
+Op 0 0 0
+T0 0 6.35 1 1 0 0.15 N V 21 N "DIOM5226X220N"
+T1 0 -5.08 1 1 0 0.15 N V 21 N "VAL**"
+DS -3.55 -1.75 3.55 -1.75 0.1 25
+DS 3.55 -1.75 3.55 1.75 0.1 25
+DS 3.55 1.75 -3.55 1.75 0.1 25
+DS -3.55 1.75 -3.55 -1.75 0.1 25
+DS -2.6 -1.3 2.6 -1.3 0.1 21
+DS 2.6 -1.3 2.6 1.3 0.1 21
+DS 2.6 1.3 -2.6 1.3 0.1 21
+DS -2.6 1.3 -2.6 -1.3 0.1 21
+$PAD
+Sh "1" R 2.3 1.55 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -2.15 0
+$EndPAD
+$PAD
+Sh "2" R 2.3 1.55 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 2.15 0
+$EndPAD
+$EndMODULE DIOM5226X220N
