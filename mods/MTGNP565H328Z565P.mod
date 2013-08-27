@@ -1,0 +1,30 @@
+PCBNEW-LibModule-V1
+# encoding utf-8
+Units mm
+$INDEX
+MTGNP565H328Z565P
+$EndINDEX
+# Type: ANSI
+# Size: 4
+# Fit: User Defined
+# HoleDiameter: 3.2766mm
+# Profile: Pan Head
+# SupportDiameter: 5.6642
+# ViasNumer: 0
+$MODULE MTGNP565H328Z565P
+Po 0 0 0 15 521C1C28 00000000 ~~
+Li MTGNP565H328Z565P
+Sc 0
+AR
+Op 0 0 0
+T0 0 4 1 1 0 0.15 N I 21 N "MTGNP565H328Z565P"
+T1 0 0 1 1 0 0.15 N V 21 N "VAL**"
+DC 0 0 2.95 0 0.1 25
+$PAD
+Sh "" C 5.65 5.65 0 0 0
+Dr 3.2766 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 0 0
+$EndPAD
+$EndMODULE MTGNP565H328Z565P
