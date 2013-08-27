@@ -46,7 +46,7 @@ Ne 0 ""
 Po 2.54 0
 $EndPAD
 $PAD
-Sh "1" C 1.65 1.65 0 0 0
+Sh "3" C 1.65 1.65 0 0 0
 Dr 1 0 0
 At STD N 00E0FFFF
 Ne 0 ""
