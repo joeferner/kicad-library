@@ -1,0 +1,202 @@
+PCBNEW-LibModule-V1
+# encoding utf-8
+Units mm
+$INDEX
+HDRV24W66P254_2X12_3048X503X838P
+$EndINDEX
+# Rows: 2
+# RowsPitch: 2.54mm
+# Positions: 12
+# PositionsPitch: 2.54mm
+# PinCount: 24
+# A: 30.48mm
+# B: 5.03mm
+# T: 2.29mm
+# H: 6.09mm
+# h: 3.18mm
+# d: 0.66mm
+$MODULE HDRV24W66P254_2X12_3048X503X838P
+Po 0 0 0 15 521C0968 00000000 ~~
+Li HDRV24W66P254_2X12_3048X503X838P
+Sc 0
+AR
+Op 0 0 0
+T0 13.97 2.3 1 1 0 0.15 N V 21 N "HDRV24W66P254_2X12_3048X503X838P"
+T1 1.27 0 1 1 0 0.15 N V 21 N "VAL**"
+DS -1.4 -3.9 29.4 -3.9 0.1 25
+DS 29.4 -3.9 29.4 1.4 0.1 25
+DS 29.4 1.4 -1.4 1.4 0.1 25
+DS -1.4 1.4 -1.4 -3.9 0.1 25
+DS -1.25 -3.75 29.25 -3.75 0.1 21
+DS 29.25 -3.75 29.25 1.25 0.1 21
+DS 29.25 1.25 -1.25 1.25 0.1 21
+DS -1.25 1.25 -1.25 -3.75 0.1 21
+$PAD
+Sh "1" R 1.65 1.65 0 0 0
+Dr 1 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 0 0
+$EndPAD
+$PAD
+Sh "2" C 1.65 1.65 0 0 0
+Dr 1 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 0 -2.54
+$EndPAD
+$PAD
+Sh "3" C 1.65 1.65 0 0 0
+Dr 1 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 2.54 0
+$EndPAD
+$PAD
+Sh "4" C 1.65 1.65 0 0 0
+Dr 1 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 2.54 -2.54
+$EndPAD
+$PAD
+Sh "5" C 1.65 1.65 0 0 0
+Dr 1 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 5.08 0
+$EndPAD
+$PAD
+Sh "6" C 1.65 1.65 0 0 0
+Dr 1 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 5.08 -2.54
+$EndPAD
+$PAD
+Sh "7" C 1.65 1.65 0 0 0
+Dr 1 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 7.62 0
+$EndPAD
+$PAD
+Sh "8" C 1.65 1.65 0 0 0
+Dr 1 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 7.62 -2.54
+$EndPAD
+$PAD
+Sh "9" C 1.65 1.65 0 0 0
+Dr 1 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 10.16 0
+$EndPAD
+$PAD
+Sh "10" C 1.65 1.65 0 0 0
+Dr 1 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 10.16 -2.54
+$EndPAD
+$PAD
+Sh "11" C 1.65 1.65 0 0 0
+Dr 1 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 12.7 0
+$EndPAD
+$PAD
+Sh "12" C 1.65 1.65 0 0 0
+Dr 1 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 12.7 -2.54
+$EndPAD
+$PAD
+Sh "13" C 1.65 1.65 0 0 0
+Dr 1 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 15.24 0
+$EndPAD
+$PAD
+Sh "14" C 1.65 1.65 0 0 0
+Dr 1 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 15.24 -2.54
+$EndPAD
+$PAD
+Sh "15" C 1.65 1.65 0 0 0
+Dr 1 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 17.78 0
+$EndPAD
+$PAD
+Sh "16" C 1.65 1.65 0 0 0
+Dr 1 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 17.78 -2.54
+$EndPAD
+$PAD
+Sh "17" C 1.65 1.65 0 0 0
+Dr 1 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 20.32 0
+$EndPAD
+$PAD
+Sh "18" C 1.65 1.65 0 0 0
+Dr 1 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 20.32 -2.54
+$EndPAD
+$PAD
+Sh "19" C 1.65 1.65 0 0 0
+Dr 1 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 22.86 0
+$EndPAD
+$PAD
+Sh "20" C 1.65 1.65 0 0 0
+Dr 1 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 22.86 -2.54
+$EndPAD
+$PAD
+Sh "21" C 1.65 1.65 0 0 0
+Dr 1 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 25.4 0
+$EndPAD
+$PAD
+Sh "22" C 1.65 1.65 0 0 0
+Dr 1 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 25.4 -2.54
+$EndPAD
+$PAD
+Sh "23" C 1.65 1.65 0 0 0
+Dr 1 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 27.94 0
+$EndPAD
+$PAD
+Sh "24" C 1.65 1.65 0 0 0
+Dr 1 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 27.94 -2.54
+$EndPAD
+$EndMODULE HDRV24W66P254_2X12_3048X503X838P
