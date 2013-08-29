@@ -1,0 +1,47 @@
+PCBNEW-LibModule-V1
+# encoding utf-8
+Units mm
+$INDEX
+XTAL8045X200N
+$EndINDEX
+# L: 7.8mm - 8.2mm
+# T1: 1.3mm - 1.7mm
+# W1: 1.8mm - 2.2mm
+# T2: 1.3mm - 1.7mm
+# W2: 1.8mm - 2.2mm
+# B: 4.3mm - 4.7mm
+# H: 2.0mm
+$MODULE XTAL8045X200N
+Po 0 0 0 15 521EC505 00000000 ~~
+Li XTAL8045X200N
+Sc 0
+AR
+Op 0 0 0
+T0 0 3.5 1 1 0 0.15 N V 21 N "XTAL8045X200N"
+T1 0 0 1 1 0 0.15 N V 21 N "VAL**"
+DS -4.9 -2.6 4.9 -2.6 0.1 25
+DS 4.9 -2.6 4.9 2.6 0.1 25
+DS 4.9 2.6 -4.9 2.6 0.1 25
+DS -4.9 2.6 -4.9 -2.6 0.1 25
+DS 4 1.6 4 2.25 0.1 21
+DS -4 2.25 4 2.25 0.1 21
+DS -4 2.25 -4 1.6 0.1 21
+DS -4 -1.6 -4 -2.25 0.1 21
+DS -4 -2.25 4 -2.25 0.1 21
+DS 4 -2.25 4 -1.6 0.1 21
+$PAD
+Sh "1" R 2.45 2.1 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -3.4 0
+$EndPAD
+$PAD
+Sh "2" R 2.45 2.1 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 3.4 0
+$EndPAD
+$EndMODULE XTAL8045X200N
+$EndLIBRARY
