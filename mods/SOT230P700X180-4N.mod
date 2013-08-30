@@ -1,0 +1,65 @@
+PCBNEW-LibModule-V1
+# encoding utf-8
+Units mm
+$INDEX
+SOT230P700X180-4N
+$EndINDEX
+# Pitch: 2.3mm
+# PinPackage: 4
+# PinCount: 4
+# L: 6.9mm - 7.1mm
+# T: 0.85mm - 1.05mm
+# W1: 0.6mm - 0.8mm
+# W2: 2.9mm - 3.1mm
+# A: 3.45mm - 3.55mm
+# B: 6.45mm - 6.55mm
+# H: 1.80mm
+# K: 0.01mm
+$MODULE SOT230P700X180-4N
+Po 0 0 0 15 521FEF41 00000000 ~~
+Li SOT230P700X180-4N
+Sc 0
+AR
+Op 0 0 0
+T0 0 7.3 1 1 0 0.15 N V 21 N "SOT230P700X180-4N"
+T1 0 0 1 1 0 0.15 N V 21 N "VAL**"
+DC -3.7 -3.3 -3.6 -3.3 0.2 21
+DC -1 -2.4 -0.8 -2.4 0.4 21
+DS -4.15 -3.55 4.15 -3.55 0.1 25
+DS 4.15 -3.55 4.15 3.55 0.1 25
+DS 4.15 3.55 -4.15 3.55 0.1 25
+DS -4.15 3.55 -4.15 -3.55 0.1 25
+DS -1.775 -3.25 1.775 -3.25 0.1 21
+DS 1.775 -3.25 1.775 3.25 0.1 21
+DS 1.775 3.25 -1.775 3.25 0.1 21
+DS -1.775 3.25 -1.775 -3.25 0.1 21
+$PAD
+Sh "1" R 1.8 0.9 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -3 -2.3
+$EndPAD
+$PAD
+Sh "2" R 1.8 0.9 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -3 0
+$EndPAD
+$PAD
+Sh "3" R 1.8 0.9 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -3 2.3
+$EndPAD
+$PAD
+Sh "4" R 1.8 3.2 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 3 0
+$EndPAD
+$EndMODULE SOT230P700X180-4N
+$EndLIBRARY
