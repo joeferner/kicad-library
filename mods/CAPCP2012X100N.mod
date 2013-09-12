@@ -4,11 +4,6 @@ Units mm
 $INDEX
 CAPCP2012X100N
 $EndINDEX
-# Capacitor Polarized - EIA 0805, Metric 2012
-# L: 2.00mm +/-0.00
-# T1, T2: 0.5mm +/-0.00
-# W: 1.25mm +/-0.15
-# H: 1.00mm
 $MODULE CAPCP2012X100N
 Po 0 0 0 15 521A341A 00000000 ~~
 Li CAPCP2012X100N

@@ -4,13 +4,6 @@ Units mm
 $INDEX
 DIOM5226X220N
 $EndINDEX
-# L: 5.21mm +/- 0.38mm
-# T1: 1.14mm +/- 0.38mm
-# W1: 1.45mm +/- 0.18mm
-# T2: 1.14mm +/- 0.38mm
-# W2: 1.45mm +/- 0.18mm
-# B: 2.605mm +/- 0.315mm
-# H: 2.2mm
 $MODULE DIOM5226X220N
 Po 0 0 0 15 521C12CD 00000000 ~~
 Li DIOM5226X220N

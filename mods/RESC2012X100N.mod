@@ -4,11 +4,6 @@ Units mm
 $INDEX
 RESC2012X100N
 $EndINDEX
-# Resistor - EIA 0805, Metric 2012
-# L: 2.00mm +/-0.00
-# T1, T2: 0.5mm +/-0.00
-# W: 1.25mm +/-0.15
-# H: 1.00mm
 $MODULE RESC2012X100N
 Po 0 0 0 15 521A3345 00000000 ~~
 Li RESC2012X100N

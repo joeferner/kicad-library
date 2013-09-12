@@ -4,17 +4,6 @@ Units mm
 $INDEX
 HDRV4W66P254_1X4_1016X249X838P
 $EndINDEX
-# Rows: 1
-# RowsPitch: 2.54mm
-# Positions: 4
-# PositionsPitch: 2.54mm
-# PinCount: 4
-# A: 10.16mm
-# B: 2.49mm
-# T: 2.29mm
-# H: 6.09mm
-# h: 3.18mm
-# d: 0.66mm
 $MODULE HDRV4W66P254_1X4_1016X249X838P
 Po 0 0 0 15 521C0114 00000000 ~~
 Li HDRV4W66P254_1X4_1016X249X838P

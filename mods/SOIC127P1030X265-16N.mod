@@ -4,16 +4,6 @@ Units mm
 $INDEX
 SOIC127P1030X265-16N
 $EndINDEX
-# P: 1.27mm
-# PinPackage: 16
-# PinCount: 16
-# L: 9.97mm - 10.63mm
-# T: 0.40mm - 1.27mm
-# W: 0.31mm - 0.51mm
-# A: 7.40mm - 7.60mm
-# B: 10.10mm - 10.50mm
-# H: 2.65mm
-# K: 0.30mm
 $MODULE SOIC127P1030X265-16N
 Po 0 0 0 15 521D77B3 00000000 ~~
 Li SOIC127P1030X265-16N

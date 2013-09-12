@@ -4,15 +4,6 @@ Units mm
 $INDEX
 SOIC127P600X175-14N
 $EndINDEX
-# Pitch: 1.27mm
-# PinPackage: 14
-# L: 5.8mm - 6.2mm
-# T: 0.4mm - 1.27mm
-# W: 0.35mm - 0.51mm
-# A: 3.8mm - 4.0mm
-# B: 8.51mm - 8.71mm
-# H: 1.75mm
-# K: 0.10mm
 $MODULE SOIC127P600X175-14N
 Po 0 0 0 15 521EC1A6 00000000 ~~
 Li SOIC127P600X175-14N

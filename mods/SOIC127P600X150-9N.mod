@@ -4,18 +4,6 @@ Units mm
 $INDEX
 SOIC127P600X150-9N
 $EndINDEX
-# ThermalTab: true
-# Pitch: 1.27mm
-# PinPackage: 8
-# L: 5.90mm - 6.10mm
-# T: 0.62mm - 0.82mm
-# W: 0.30mm - 0.50mm
-# Tt: 3.35mm
-# Wt: 2.71mm
-# A: 3.80mm - 3.90mm
-# B: 4.85mm - 4.95mm
-# H: 1.50mm
-# K: 0.13mm
 $MODULE SOIC127P600X150-9N
 Po 0 0 0 15 521EB92D 00000000 ~~
 Li SOIC127P600X150-9N

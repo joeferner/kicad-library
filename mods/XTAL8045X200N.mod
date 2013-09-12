@@ -4,13 +4,6 @@ Units mm
 $INDEX
 XTAL8045X200N
 $EndINDEX
-# L: 7.8mm - 8.2mm
-# T1: 1.3mm - 1.7mm
-# W1: 1.8mm - 2.2mm
-# T2: 1.3mm - 1.7mm
-# W2: 1.8mm - 2.2mm
-# B: 4.3mm - 4.7mm
-# H: 2.0mm
 $MODULE XTAL8045X200N
 Po 0 0 0 15 521EC505 00000000 ~~
 Li XTAL8045X200N

@@ -4,16 +4,6 @@ Units mm
 $INDEX
 QFP80P900X900X160-32N
 $EndINDEX
-# Pitch: 0.8mm
-# Pins: 8x8 (32)
-# L1: 9.00mm
-# L2: 9.00mm
-# T: 0.45mm - 0.75mm
-# W: 0.30mm - 0.44mm
-# A: 7.00mn - 7.00mm
-# B: 7.00mm - 7.00mm
-# H: 1.60mm
-# K: 0.05mm
 $MODULE QFP80P900X900X160-32N
 Po 0 0 0 15 521FE97D 00000000 ~~
 Li QFP80P900X900X160-32N

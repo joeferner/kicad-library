@@ -4,21 +4,6 @@ Units mm
 $INDEX
 PQFN80P800X800X220-33N
 $EndINDEX
-# Pitch: 0.8mm
-# PinsA: 7
-# PinsB: 9
-# PinCount: 32
-# PullBack: 0.05mm
-# A: 8.0mm - 8.0mm
-# B: 8.0mm - 8.0mm
-# H: 2.2mm
-# T: 0.95mm - 1.15mm
-# W: 0.45mm - 0.45mm
-# Tt: 5.0mm
-# Wt: 5.0mm
-# Ft: 0.7mm
-# Rt: 0.0mm
-# Notes: Pins and heat pad were shrunk to fit 8mil
 $MODULE PQFN80P800X800X220-33N
 Po 0 0 0 15 521FF959 00000000 ~~
 Li PQFN80P800X800X220-33N

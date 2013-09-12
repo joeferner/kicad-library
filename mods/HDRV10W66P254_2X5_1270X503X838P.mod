@@ -4,17 +4,6 @@ Units mm
 $INDEX
 HDRV10W66P254_2X5_1270X503X838P
 $EndINDEX
-# Rows: 2
-# RowsPitch: 2.54mm
-# Positions: 5
-# PositionsPitch: 2.54mm
-# PinCount: 10
-# A: 12.7mm
-# B: 5.03mm
-# T: 2.29mm
-# H: 6.09mm
-# h: 3.18mm
-# d: 0.66mm
 $MODULE HDRV10W66P254_2X5_1270X503X838P
 Po 0 0 0 15 521C0352 00000000 ~~
 Li HDRV10W66P254_2X5_1270X503X838P

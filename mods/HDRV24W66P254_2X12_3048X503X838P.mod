@@ -4,17 +4,6 @@ Units mm
 $INDEX
 HDRV24W66P254_2X12_3048X503X838P
 $EndINDEX
-# Rows: 2
-# RowsPitch: 2.54mm
-# Positions: 12
-# PositionsPitch: 2.54mm
-# PinCount: 24
-# A: 30.48mm
-# B: 5.03mm
-# T: 2.29mm
-# H: 6.09mm
-# h: 3.18mm
-# d: 0.66mm
 $MODULE HDRV24W66P254_2X12_3048X503X838P
 Po 0 0 0 15 521C0968 00000000 ~~
 Li HDRV24W66P254_2X12_3048X503X838P

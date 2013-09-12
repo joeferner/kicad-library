@@ -4,17 +4,6 @@ Units mm
 $INDEX
 SOT230P700X180-4N
 $EndINDEX
-# Pitch: 2.3mm
-# PinPackage: 4
-# PinCount: 4
-# L: 6.9mm - 7.1mm
-# T: 0.85mm - 1.05mm
-# W1: 0.6mm - 0.8mm
-# W2: 2.9mm - 3.1mm
-# A: 3.45mm - 3.55mm
-# B: 6.45mm - 6.55mm
-# H: 1.80mm
-# K: 0.01mm
 $MODULE SOT230P700X180-4N
 Po 0 0 0 15 521FEF41 00000000 ~~
 Li SOT230P700X180-4N

@@ -4,12 +4,6 @@ Units mm
 $INDEX
 CAPAE660X790N
 $EndINDEX
-# L: 7.00mm +/- 0.4mm
-# T: 2.40mm +/- 0.2mm
-# W: 0.65mm +/- 0.15mm
-# A: 6.60mm +/- 0.20mm
-# B: 6.60mm +/- 0.20mm
-# H: 7.70mm +0.20mm
 $MODULE CAPAE660X790N
 Po 0 0 0 15 521C0E68 00000000 ~~
 Li CAPAE660X790N

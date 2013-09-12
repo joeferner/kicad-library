@@ -4,13 +4,6 @@ Units mm
 $INDEX
 MTGNP565H328Z565P
 $EndINDEX
-# Type: ANSI
-# Size: 4
-# Fit: User Defined
-# HoleDiameter: 3.2766mm
-# Profile: Pan Head
-# SupportDiameter: 5.6642
-# ViasNumer: 0
 $MODULE MTGNP565H328Z565P
 Po 0 0 0 15 521C1C28 00000000 ~~
 Li MTGNP565H328Z565P

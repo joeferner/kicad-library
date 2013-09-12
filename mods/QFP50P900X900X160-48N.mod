@@ -4,18 +4,6 @@ Units mm
 $INDEX
 QFP50P900X900X160-48N
 $EndINDEX
-# P: 0.50mm
-# PinsA: 12
-# PinsB: 12
-# PinCount: 48
-# L1: 8.80mm - 9.20mm
-# L2: 8.80mm - 9.20mm
-# T: 0.45mm - 0.60mm
-# W: 0.17mm - 0.22mm
-# A: 6.80mm - 7.00mm
-# B: 6.80mm - 7.00mm
-# H: 1.60mm
-# K: 0.05mm
 $MODULE QFP50P900X900X160-48N
 Po 0 0 0 15 521D7291 00000000 ~~
 Li QFP50P900X900X160-48N

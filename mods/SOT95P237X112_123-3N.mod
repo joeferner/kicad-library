@@ -4,16 +4,6 @@ Units mm
 $INDEX
 SOT95P237X112_123-3N
 $EndINDEX
-# P: 0.95mm
-# PinPackage: 6
-# PinCount: 3
-# L: 2.10mm - 2.64mm
-# T: 0.40mm - 0.60mm
-# W: 0.30mm - 0.50mm
-# A: 1.20mm - 1.40mm
-# B: 2.80mm - 3.04mm
-# H: 1.12mm
-# K: 0.20mm
 $MODULE SOT95P237X112_123-3N
 Po 0 0 0 15 521D03BF 00000000 ~~
 Li SOT95P237X112_123-3N
