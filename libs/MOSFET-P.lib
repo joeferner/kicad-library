@@ -1,5 +1,6 @@
 EESchema-LIBRARY Version 2.3
 #encoding utf-8
+# MOSFET-P
 #
 DEF MOSFET-P U 0 40 Y Y 1 F N
 F0 "U" 30 120 30 H V L CNN
