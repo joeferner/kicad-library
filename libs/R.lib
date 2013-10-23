@@ -1,5 +1,6 @@
 EESchema-LIBRARY Version 2.3
 #encoding utf-8
+#
 # R
 #
 DEF R R 0 10 N Y 1 F N
