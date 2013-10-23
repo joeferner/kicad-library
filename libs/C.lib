@@ -1,8 +1,11 @@
 EESchema-LIBRARY Version 2.3
 #encoding utf-8
+#
 DEF C C 0 10 N Y 1 F N
 F0 "C" 25 50 30 H V L CNN
 F1 "C" 25 -50 30 H V L CNN
+F2 "" 0 0 60 H V C CNN
+F3 "" 0 0 60 H V C CNN
 $FPLIST
 SM*
 C?
