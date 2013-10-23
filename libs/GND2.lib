@@ -1,6 +1,5 @@
 EESchema-LIBRARY Version 2.3
 #encoding utf-8
-#
 DEF GND2 #PWR 0 0 Y Y 1 F P
 F0 "#PWR" 0 0 30 H I C CNN
 F1 "GND" 0 -70 30 H I C CNN

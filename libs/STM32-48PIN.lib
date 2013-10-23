@@ -1,5 +1,6 @@
 EESchema-LIBRARY Version 2.3
 #encoding utf-8
+# STM32-48PIN
 #
 DEF STM32-48PIN U 0 40 Y Y 1 F N
 F0 "U" -1000 1750 60 H V C CNN
