@@ -5,7 +5,7 @@ $INDEX
 JST_UB-MC5BR3-SD204-4S-NMP
 $EndINDEX
 $MODULE JST_UB-MC5BR3-SD204-4S-NMP
-Po 0 0 0 15 52487088 00000000 ~~
+Po 0 0 0 15 526878E9 00000000 ~~
 Li JST_UB-MC5BR3-SD204-4S-NMP
 Sc 0
 AR
@@ -18,39 +18,39 @@ DS -5.2 -3.75 5.2 -3.75 0.1 25
 DS 5.2 -3.75 5.2 1.25 0.1 25
 DS -5.2 1.45 5.2 1.45 0.1 24
 $PAD
-Sh "1" R 0.4 1.35 0 0 0
+Sh "1" R 0.4 1.9 0 0 0
 Dr 0 0 0
 At SMD N 00888000
 Ne 0 ""
-Po -1.3 -2.675
+Po -1.3 -2.95
 $EndPAD
 $PAD
-Sh "2" R 0.4 1.35 0 0 0
+Sh "2" R 0.4 1.9 0 0 0
 Dr 0 0 0
 At SMD N 00888000
 Ne 0 ""
-Po -0.65 -2.675
+Po -0.65 -2.95
 $EndPAD
 $PAD
-Sh "3" R 0.4 1.35 0 0 0
+Sh "3" R 0.4 1.9 0 0 0
 Dr 0 0 0
 At SMD N 00888000
 Ne 0 ""
-Po 0 -2.675
+Po 0 -2.95
 $EndPAD
 $PAD
-Sh "4" R 0.4 1.35 0 0 0
+Sh "4" R 0.4 1.9 0 0 0
 Dr 0 0 0
 At SMD N 00888000
 Ne 0 ""
-Po 0.65 -2.675
+Po 0.65 -2.95
 $EndPAD
 $PAD
-Sh "5" R 0.4 1.35 0 0 0
+Sh "5" R 0.4 1.9 0 0 0
 Dr 0 0 0
 At SMD N 00888000
 Ne 0 ""
-Po 1.3 -2.675
+Po 1.3 -2.95
 $EndPAD
 $PAD
 Sh "" R 1.6 1.4 0 0 0
