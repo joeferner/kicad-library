@@ -1,14 +1,14 @@
 EESchema-LIBRARY Version 2.3
 #encoding utf-8
 #
-# BTN_SPST
+# SPST
 #
-DEF BTN_SPST S 0 40 Y Y 1 F N
+DEF SPST S 0 40 Y Y 1 F N
 F0 "S" -50 300 60 H V C CNN
-F1 "BTN_SPST" 0 -100 60 H V C CNN
+F1 "SPST" 0 -100 60 H V C CNN
 F2 "" 0 0 60 H V C CNN
 F3 "" 0 0 60 H V C CNN
-ALIAS switch button spst
+ALIAS switch button
 DRAW
 P 2 0 1 0  -100 0  -100 100 N
 P 2 0 1 0  -100 100  100 150 N
