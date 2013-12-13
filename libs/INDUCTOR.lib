@@ -1,5 +1,6 @@
 EESchema-LIBRARY Version 2.3
 #encoding utf-8
+#
 # INDUCTOR
 #
 DEF INDUCTOR L 0 40 N N 1 F N
