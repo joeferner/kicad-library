@@ -1,5 +1,6 @@
 EESchema-LIBRARY Version 2.3
 #encoding utf-8
+#
 # AP6502
 #
 DEF AP6502 U 0 40 Y Y 1 F N
