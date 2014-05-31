@@ -5,7 +5,7 @@ $INDEX
 SJ1-352XNG
 $EndINDEX
 $MODULE SJ1-352XNG
-Po 0 0 0 15 53887ADC 00000000 ~~
+Po 0 0 0 15 53891CDB 00000000 ~~
 Li SJ1-352XNG
 Sc 0
 AR
@@ -53,36 +53,36 @@ Ne 0 ""
 Po 4.5 5
 $EndPAD
 $PAD
-Sh "1" O 1.5 2.2 0 0 0
-Dr 0.8 0 0 O 0.8 1.5
+Sh "1" C 2.2 2.2 0 0 0
+Dr 1.5 0 0
 At STD N 00E0FFFF
 Ne 0 ""
 Po 4.5 0
 $EndPAD
 $PAD
-Sh "2" O 2.2 1.5 0 0 0
-Dr 1.5 0 0 O 1.5 0.8
+Sh "2" C 2.2 2.2 0 0 0
+Dr 1.5 0 0
 At STD N 00E0FFFF
 Ne 0 ""
 Po 9.5 5
 $EndPAD
 $PAD
-Sh "3" O 2.2 1.5 0 0 0
-Dr 1.5 0 0 O 1.5 0.8
+Sh "3" C 2.2 2.2 0 0 0
+Dr 1.5 0 0
 At STD N 00E0FFFF
 Ne 0 ""
 Po 9.5 -5
 $EndPAD
 $PAD
-Sh "4" O 2.2 1.5 0 0 0
-Dr 1.5 0 0 O 1.5 0.8
+Sh "4" C 2.2 2.2 0 0 0
+Dr 1.5 0 0
 At STD N 00E0FFFF
 Ne 0 ""
 Po 9.5 2.5
 $EndPAD
 $PAD
-Sh "5" O 2.2 1.5 0 0 0
-Dr 1.5 0 0 O 1.5 0.8
+Sh "5" C 2.2 2.2 0 0 0
+Dr 1.5 0 0
 At STD N 00E0FFFF
 Ne 0 ""
 Po 9.5 -2.5
