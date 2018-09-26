@@ -2,8 +2,8 @@ ISO-10303-21;
 HEADER;
 FILE_DESCRIPTION(('FreeCAD Model'),'2;1');
 FILE_NAME(
-  '/home/jferner/dev/speed-trap/hardware/mods/CAPCP2012X100N.step',
-  '2018-09-26T16:50:52',('Author'),(''),
+  '/home/jferner/dev/speed-trap/hardware/mods/CAPC2012X100N.step',
+  '2018-09-26T16:53:46',('Author'),(''),
   'Open CASCADE STEP processor 7.3','FreeCAD','Unknown');
 FILE_SCHEMA(('AUTOMOTIVE_DESIGN { 1 0 10303 214 1 1 1 1 }'));
 ENDSEC;
@@ -16,7 +16,7 @@ DATA;
 #4 = PRODUCT_DEFINITION_SHAPE('','',#5);
 #5 = PRODUCT_DEFINITION('design','',#6,#9);
 #6 = PRODUCT_DEFINITION_FORMATION('','',#7);
-#7 = PRODUCT('CAPCP2012X100N','CAPCP2012X100N','',(#8));
+#7 = PRODUCT('CAPC2012X100N','CAPC2012X100N','',(#8));
 #8 = PRODUCT_CONTEXT('',#2,'mechanical');
 #9 = PRODUCT_DEFINITION_CONTEXT('part definition',#2,'design');
 #10 = ADVANCED_BREP_SHAPE_REPRESENTATION('',(#11,#15),#357);

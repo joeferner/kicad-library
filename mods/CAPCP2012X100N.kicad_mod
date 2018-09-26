@@ -1,4 +1,4 @@
-(module CAPCP2012X100N (layer F.Cu) (tedit 5BABED17)
+(module CAPCP2012X100N (layer F.Cu) (tedit 5BABF14F)
   (fp_text reference REF** (at 2.286 0 90) (layer F.SilkS)
     (effects (font (size 0.6 0.6) (thickness 0.1)))
   )
