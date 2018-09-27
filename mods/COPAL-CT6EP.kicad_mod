@@ -1,4 +1,4 @@
-(module COPAL-CT6EP (layer F.Cu) (tedit 52B3C47D)
+(module COPAL-CT6EP (layer F.Cu) (tedit 5BAC4115)
   (fp_text reference COPAL-CT6EP (at 0 4.5) (layer F.SilkS)
     (effects (font (size 0.6 0.6) (thickness 0.1)))
   )
@@ -16,4 +16,9 @@
   (pad 1 thru_hole circle (at -2.5 0) (size 1.5 1.5) (drill 0.6) (layers *.Cu *.Mask F.SilkS))
   (pad 2 thru_hole circle (at 0 -2.5) (size 1.5 1.5) (drill 0.6) (layers *.Cu *.Mask F.SilkS))
   (pad 3 thru_hole circle (at 2.5 0) (size 1.5 1.5) (drill 0.6) (layers *.Cu *.Mask F.SilkS))
+  (model ${KIPRJMOD}/mods/COPAL-CT6EP.step
+    (at (xyz 0 0 0))
+    (scale (xyz 1 1 1))
+    (rotate (xyz 0 0 0))
+  )
 )
